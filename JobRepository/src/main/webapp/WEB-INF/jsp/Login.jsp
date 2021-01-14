@@ -55,7 +55,7 @@
 
 	  });
 </script>
-<h1 style="color: blue;">Welcome To JobRepository Login Page</h1>
+<h1 style="color: blue;">Welcome!</h1>
 </head>
 <body>
 

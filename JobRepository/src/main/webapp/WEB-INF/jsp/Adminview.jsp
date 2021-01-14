@@ -15,7 +15,7 @@
 </head>
 <body>
 
-<a  style="float:right">welcome Admin!,<h3 align="right">${useremail}</h3><br></a>
+<a  style="float:right">Welcome! admin Portal,<h3 align="right">${obj1.username}</h3><br></a>
 
  <br>
 <a href="${pageContext.request.contextPath}/JobPortal.do">Add jobs </a><br>

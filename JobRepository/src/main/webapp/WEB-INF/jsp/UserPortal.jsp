@@ -8,7 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<a style="float:right">welcome! User Login ,<h3>${useremail}</h3><br></a>
+<a style="float:right">welcome! Candidate Portal ,<h3>${obj1.username}</h3><br></a>
 
 <pre>
 	<table border="1" align="center">
