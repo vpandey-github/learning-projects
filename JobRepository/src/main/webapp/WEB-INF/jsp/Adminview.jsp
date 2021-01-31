@@ -19,10 +19,7 @@
 
  <br>
 <a href="${pageContext.request.contextPath}/JobPortal.do">Add jobs </a><br>
- <%-- Number of jobs  are:${view.size()} --%>
 	<table border="1" align="center">
-	Number of jobs  are:${view.size()}
-
 		<tr>
 			<th>job Name:</th>
 			<th>Job Role</th>

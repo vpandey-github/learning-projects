@@ -1,2 +1,2 @@
 <hr/>
-<p>&copy;Copyright  2016 nuVizz.com.</p>
+<p>&copy;Copyright  2021 </p>
